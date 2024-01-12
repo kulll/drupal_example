@@ -1,13 +1,13 @@
 <?php declare(strict_types = 1);
 
-namespace Drupal\anwar\Controller;
+namespace Drupal\hello2\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
 
 /**
- * Returns responses for Anwar routes.
+ * Returns responses for Hello2 routes.
  */
-final class AnwarController extends ControllerBase {
+final class Hello2Controller extends ControllerBase {
 
   /**
    * Builds the response.

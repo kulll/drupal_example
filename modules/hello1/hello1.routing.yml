@@ -1,0 +1,7 @@
+hello1:
+  path: '/hello1'
+  defaults:
+    _title: 'Hello1'
+    _controller: '\Drupal\hello1\Controller\Hello1Controller'
+  requirements:
+    _permission: 'access content'
