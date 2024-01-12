@@ -1,0 +1,7 @@
+anwar.example:
+  path: '/anwar'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\anwar\Controller\AnwarController'
+  requirements:
+    _permission: 'access content'
